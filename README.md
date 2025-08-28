@@ -20,6 +20,8 @@ help basicstat
 ```
 Note: The command also supports an optional exclude option: if specified, it will omit the listed variables from the output; otherwise, all variables are included by default. For cleaner and more targeted results, using the exclude option.
 
+## Issues
+For any issues, report: https://github.com/armanmahmud1/basicstat/issues
 ## Author
 Arman Mahmud, <br>
 Email: armanmahmud.du18@gmail.com, <br>
