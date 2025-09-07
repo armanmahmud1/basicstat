@@ -1,4 +1,4 @@
-	**! version 1.0.0 Arman Mahmud, 21aug2025 
+	**! version 1.0.1 Arman Mahmud, 21aug2025 
 	
 	cap program drop basicstat 
 	program define basicstat
@@ -119,6 +119,24 @@
 		}
 	}
 	
-	end
 	
 
+	** notes
+	*~~~~~~~~~~~~~~~~~~~~~~~*
+
+	n di ""
+	n di ""
+	n di as result "{hline}"
+	n di as result " ✨ Analysis Complete! ✨"
+	n di as result "{hline}"
+	n di ""
+	n di as result " Output files have been saved to the current working directory."
+	n di ""
+	di as result `" String variable summary: {browse "basicstat_string_output.xlsx"}"'
+	di as result `" Numeric variable summary: {browse "basicstat_numeric_output.xlsx"}"'
+	n di ""
+	n di as result " You can find the directory path by typing " as input "pwd" as result " in the Command window."
+	n di as result "{hline}"
+	
+	
+	end
