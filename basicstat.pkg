@@ -1,5 +1,6 @@
 v 1.0.0, Arman Mahmud 24aug2025 
 d basicstat: To know the basic statistics of a dataset.
-d distribution-date: 2025-08-24
+d distribution-date: 2025-09-07
 f basicstat.ado
+
 f basicstat.sthlp
