@@ -18,7 +18,9 @@ basicstat using "D:\test_dataset\Practice_clean.dta", exclude(reason_fine_1 reas
 ```
 help basicstat
 ```
-Note: The command also supports an optional exclude option: if specified, it will omit the listed variables from the output; otherwise, all variables are included by default. For cleaner and more targeted results, using the exclude option.
+Note: <br>
+1. The command also supports an optional exclude option: if specified, it will omit the listed variables from the output; otherwise, all variables are included by default. For cleaner and more targeted results, using the exclude option. <br>
+2. Please check the Command window carefully. The export file has been saved to your current working directory. You’ll find a clickable link to the exported file provided by this package.
 
 ## Issues
 For any issues, report: https://github.com/armanmahmud1/basicstat/issues
