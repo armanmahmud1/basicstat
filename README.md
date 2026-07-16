@@ -24,7 +24,8 @@ help basicstat
 
 ## Issues
 For any issues, report: https://github.com/armanmahmud1/basicstat/issues
+
 ## Author
-Arman Mahmud, <br>
-Email: armanmahmud.du18@gmail.com, <br>
-Web: https://sites.google.com/view/armanmahmud1
+Arman Mahmud </br>
+Email: armanmahmud.du18@gmail.com </br>
+Web: [arman-mahmud.com](https://www.arman-mahmud.com)
